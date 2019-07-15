@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="tim_maina">Tim Maina</string>
+    <string name="track">Track:</string>
+    <string name="todo">TODO</string>
+    <string name="tim">Tim</string>
+    <string name="android">Android</string>
+    <string name="country">Country:</string>
+    <string name="email">Email:</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="_254_704031420">+254 704031420</string>
+    <string name="timmaina64_gmail_com">timmaina64@gmail.com</string>
+    <string name="kenya">Kenya</string>
+</resources>
